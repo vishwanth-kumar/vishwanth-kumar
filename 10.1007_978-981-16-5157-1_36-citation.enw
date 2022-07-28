@@ -1,0 +1,17 @@
+%0 Conference Proceedings
+%T Analysis the Accuracy of Rice Grains Quality Using Neural Networks
+%A Menaka, S.
+%A Rekha, K. Sashi
+%Y Shakya, Subarna
+%Y Balas, Valentina Emilia
+%Y Kamolphiwong, Sinchai
+%Y Du, Ke-Lin
+%S Sentimental Analysis and Deep Learning
+%D 2022
+%I Springer Singapore
+%C Singapore
+%@ 978-981-16-5157-1
+%F 10.1007/978-981-16-5157-1_36
+%X Rice is the real sustenance source in southern India. It is the staple food for more than 80% of population around the globe. Many styles of paddy crop are cultivated and exported. Detecting the defected grains and distinguishing rice variety are essential in rice fine analysis. An automated machine can be used for identifying rice grain type, and digital imaging is identified as a sustainable method to abstract the capabilities from rice grains in a contact-free manner. Image pre-processing techniques, filtering, segmentation and aspect detection are performed on the acquired image. The morphological capabilities, which might be extracted from the image, are in the form of light-emitting diode (LED) display by using machine learning technique. In neural network through the texture, size and colour of the rice grains, the image will be processed, the outcome was compared with the existing multilayer perceptron (MLP) and support vector machine (SVM), and a matching pattern is used along with extracted images to produce the high accuracy and high-quality rice grain. The proposed backpropagation algorithm using feedforward neural network approach appears to have better accuracy of about 98.4% when compared with SVM, which have 92% accuracy for analysing the rice grain quality.
+%P 465-474
+
